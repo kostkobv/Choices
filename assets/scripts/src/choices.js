@@ -27,8 +27,6 @@ import {
   triggerEvent,
 }
 from './lib/utils.js';
-import './lib/polyfills.js';
-
 
 /**
  * Choices
